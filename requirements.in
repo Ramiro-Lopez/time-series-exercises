@@ -1,0 +1,8 @@
+pandas
+numpy
+bokeh
+scikit-learn 
+matplotlib
+seaborn 
+jupyter 
+pip-tools
